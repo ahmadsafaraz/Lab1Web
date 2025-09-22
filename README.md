@@ -8,7 +8,10 @@
 Berikut adalah contoh dari penggunaan tag p yaitu
 membuat sebuah paragraf yang memberikan jarak atas dan bawah (margin) pada paragraf.
 
+
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/986fef30-9f71-42e4-91b5-db36e9999a67" />
+
 berikut adalah contoh dari penggunaan br yaitu
 memberi garis baru (enter) dalam teks tanpa membuat paragraf baru tidak menambahkan jarak atas bawah seperti tag p
 br juga bersifat self-closing tag (tidak butuh penutup) teks dipisah tapi jaraknya lebih rapat di banding paragraf
