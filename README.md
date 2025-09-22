@@ -71,6 +71,8 @@ Atribut width pada tabel digunakan untuk menentukan lebar tabel
 # Atribut Height
 Atribut height pada tabel digunakan untuk menentukan tinggi tabel
 
+
+# 5. menambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent)
 <img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/99369224-ca17-483c-b001-af0749af4c7d" />
 
 
