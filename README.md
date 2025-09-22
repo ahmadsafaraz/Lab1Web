@@ -7,8 +7,9 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dfa326fa-cf7c-4e74-aaa0-99a429d9a9a0" />
 Berikut adalah contoh dari penggunaan tag p yaitu
 membuat sebuah paragraf yang memberikan jarak atas dan bawah (margin) pada paragraf.
-
-
+<p>
+  
+</p>
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/986fef30-9f71-42e4-91b5-db36e9999a67" />
 
