@@ -5,4 +5,4 @@
 
 # 2. perbedaan <p> dengan (<br>) dan penjelasannya
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dfa326fa-cf7c-4e74-aaa0-99a429d9a9a0" />
-Berikut adalah contoh dari penggunaan tag  (<P>)
+Berikut adalah contoh dari penggunaan tag 
